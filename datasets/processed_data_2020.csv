@@ -1,4 +1,4 @@
-Date,Station name,Wind,CO,Dew,Humidity,NO2,O3,PM10,PM2.5,Pressure,SO2,Temperature,AQI index,Dominent pollutant,Status
+Date,Station name,Wind,CO,Dew,Humidity,NO2,O3,PM10,PM25,Pressure,SO2,Temperature,AQI index,Dominent pollutant,Status
 2020-01-01,Huế,2.0,5.5,19.2,83.0,14.0,5.0,31.0,18.0,1013.0,5.0,22.0,63.0,PM2.5,Moderate
 2020-01-01,Hà Nội,2.0,5.5,19.2,83.0,14.0,5.0,31.0,164.0,1013.0,5.0,22.0,214.0,PM2.5,Very Unhealthy
 2020-01-01,Hạ Long,2.0,5.5,19.2,83.0,14.0,5.0,31.0,83.0,1013.0,5.0,22.0,165.0,PM2.5,Unhealthy
